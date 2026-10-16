@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env*
+handled/*
+!handled/README.md
+data/
+variant_logs/
+*.pt
+*.pkl
+*.npz
+*.npy
+*.jsonl
+*.log
